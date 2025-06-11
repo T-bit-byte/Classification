@@ -1,0 +1,1 @@
+This repository focuses on training a sequential model for image classification. The model architecture includes convolutional and max pooling layers, followed by a flattening layer, enabling it to effectively classify images into various categories.
