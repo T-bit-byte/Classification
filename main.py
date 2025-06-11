@@ -43,4 +43,4 @@ loss, accuracy= model.evaluate(testing_images,testing_labels)
 print(f"Loss:{loss}")
 print(f"Accuracy:{accuracy}")
 
-model.save('image_classifier.keras')
+model.save('image_classifier.h5')
